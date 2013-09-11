@@ -21,7 +21,7 @@ Find me elsewhere at
 Starting with jekyll is not that difficult, but it's still step by step. 
 So here are my first posts, including the "how to" post jekyll bootstrap provided me with.
     
-## Sample Posts
+## Posts
 
 
 <ul class="posts">
