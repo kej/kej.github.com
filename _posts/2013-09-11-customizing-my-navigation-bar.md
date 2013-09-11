@@ -13,10 +13,8 @@ Thanks to my brother [kudos!](http://www.linkedin.com/in/bnadrowski) I now remov
 
 from the YAML front matter. Pages in these group are selected in 
 
-// _includes/themes/twitter.default.html
 
 and handed over to 
 
-// _includes/JB/pages_list
 
 Wow!
